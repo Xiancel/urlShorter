@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	config.Init()
+	config.Init() // виклик init
 }
